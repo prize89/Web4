@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Lab 7</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">Products</a>
+            <a href="#">Contact</a>
+            <a href="#">Support</a>
+        </nav>
+    </header>
+    <main>
+        <div id="image_container">
+            <img src="Spunchbop.webp" alt="logo">
+        </div>
+        <div id="box_container">
+            <div id="box1" class="box">Fixing Computers</div>
+            <div id="box2" class="box">Web Development</div>
+            <div id="box3" class="box">Network Solutions</div>
+        </div>
+    </main>
+    <br><br>
+    <div id="media_box">Media Box</div>
+</body>
+</html>
